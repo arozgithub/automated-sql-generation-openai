@@ -6,6 +6,8 @@
 
 This repository contains a project titled **"Automated SQL Generation with OpenAI"**, which leverages OpenAI's GPT models to automatically generate SQL queries based on natural language questions. The core functionality is encapsulated in a Jupyter Notebook, making it a self-contained solution for generating SQL queries for various tasks. **This project was made possible with the collaboration of Aroz.**
 
+GitHub Repository: [Aroz's Repository](https://github.com/arozgithub/automated-sql-generation-openai/blob/main/README.md)
+
 ## Table of Contents
 
 - [Automated SQL Generation with OpenAI](#automated-sql-generation-with-openai)
@@ -93,4 +95,3 @@ Contributions to the `automated-sql-generation-openai` project are welcome. Plea
 ## License
 
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
-
